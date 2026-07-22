@@ -355,5 +355,33 @@
     "english": "In the name of the moon, I'll punish you! (alt wording 41)",
     "anime": "Sailor Moon",
     "character": "Usagi Tsukino"
-  }
+  },
+  {
+  "japanese": "さらに向こうへ!プルスウルトラ!",
+  "romaji": "Sarani mukou e! Purusu Urutora!",
+  "english": "Go beyond! Plus Ultra!",
+  "anime": "My Hero Academia",
+  "character": "All Might"
+},
+{
+  "japanese": "レロレロレロレロ",
+  "romaji": "Rero rero rero rero",
+  "english": "Lero lero lero lero. (alt wording 27)",
+  "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
+  "character": "Noriaki Kakyoin"
+},
+  {
+    "japanese": "俺は人間をやめるぞ！ジョジョーーッ！！",
+    "romaji": "Ore wa ningen o yameru zo! Jojo!!",
+    "english": "I'm going to stop being human, JoJo! (alt wording 12) (alt wording 64)",
+    "anime": "JoJo's Bizarre Adventure: Phantom Blood",
+    "character": "Dio Brando"
+  },
+  {
+  "japanese": "仲間を大切にしない奴はそれ以上のクズだ",
+  "romaji": "Nakama o taisetsu ni shinai yatsu wa sore ijou no kuzu da",
+  "english": "Those who don't take care of their comrades are worse than scum. (alt wording 34) (alt wording 86)",
+  "anime": "Naruto",
+  "character": "Kakashi Hatake"
+}
 ]

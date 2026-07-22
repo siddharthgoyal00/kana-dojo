@@ -16,7 +16,7 @@
     "english": "Yes! Yes! Yes! Yes!",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "DIO",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -286,7 +286,7 @@
     "english": "Mama mama mama.",
     "anime": "One Piece",
     "character": "Charlotte Linlin (Big Mom)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -376,7 +376,7 @@
     "english": "Go beyond! Plus Ultra!",
     "anime": "My Hero Academia",
     "character": "All Might",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -526,7 +526,7 @@
     "english": "Road roller! (alt wording 1)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "DIO",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -786,7 +786,7 @@
     "english": "Lero lero lero lero. (alt wording 27)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Noriaki Kakyoin",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -926,7 +926,7 @@
     "english": "In the name of the moon, I'll punish you! (alt wording 41)",
     "anime": "Sailor Moon",
     "character": "Usagi Tsukino",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1036,7 +1036,7 @@
     "english": "Lend me your energy! (alt wording 52)",
     "anime": "Dragon Ball Z",
     "character": "Son Goku",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1076,7 +1076,7 @@
     "english": "But I refuse. (alt wording 4) (alt wording 56)",
     "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
     "character": "Rohan Kishibe",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1156,7 +1156,7 @@
     "english": "I'm going to stop being human, JoJo! (alt wording 12) (alt wording 64)",
     "anime": "JoJo's Bizarre Adventure: Phantom Blood",
     "character": "Dio Brando",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1186,7 +1186,7 @@
     "english": "Good grief... honestly. (alt wording 15) (alt wording 67)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Jotaro Kujo",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1226,7 +1226,7 @@
     "english": "What?! (alt wording 19) (alt wording 71)",
     "anime": "Fist of the North Star",
     "character": "Shin",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1376,7 +1376,7 @@
     "english": "Those who don't take care of their comrades are worse than scum. (alt wording 34) (alt wording 86)",
     "anime": "Naruto",
     "character": "Kakashi Hatake",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1396,7 +1396,7 @@
     "english": "I'll exterminate them! Every last one from this world! (alt wording 36) (alt wording 88)",
     "anime": "Attack on Titan",
     "character": "Eren Yeager",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

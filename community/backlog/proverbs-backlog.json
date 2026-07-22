@@ -96,7 +96,7 @@
     "english": "Time is money",
     "meaning": "Time is valuable and should not be wasted",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 12,
@@ -267,7 +267,7 @@
     "english": "Ten people, ten colors",
     "meaning": "Different strokes for different folks",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 31,
@@ -339,7 +339,7 @@
     "english": "Not knowing is Buddha",
     "meaning": "Ignorance is bliss",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 39,
@@ -393,7 +393,7 @@
     "english": "Fall seven times, get up eight",
     "meaning": "Never give up",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 45,
@@ -609,7 +609,7 @@
     "english": "Fortune comes to a laughing gate",
     "meaning": "Good fortune comes to those who smile",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 69,
@@ -690,7 +690,7 @@
     "english": "Peek at the sky through a needle's eye",
     "meaning": "A narrow viewpoint leads to poor judgment",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 78,
@@ -752,7 +752,7 @@
     "romaji": "Yabu wo tsutsuite hebi wo dasu",
     "english": "Poke the bush and bring out a snake",
     "meaning": "Stir up trouble unnecessarily",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -897,7 +897,7 @@
     "english": "Dumplings over flowers",
     "meaning": "Practicality over appearance",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 101,
@@ -933,7 +933,7 @@
     "english": "An inch ahead is darkness",
     "meaning": "The future is uncertain",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 105,
@@ -1077,7 +1077,7 @@
     "english": "Fortune comes to a laughing gate",
     "meaning": "Happiness brings good fortune",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 121,
@@ -1284,7 +1284,7 @@
     "english": "Three people together have the wisdom of Monju",
     "meaning": "Two heads are better than one",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 144,
@@ -1356,7 +1356,7 @@
     "english": "After the rain, the ground hardens",
     "meaning": "Hard times build resilience",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 152,
@@ -1518,7 +1518,7 @@
     "english": "The mouth is the source of misfortune",
     "meaning": "Careless words cause trouble",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 170,

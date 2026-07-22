@@ -2,7 +2,7 @@
   {
     "id": 1,
     "fact": "Japan has a word 'kuchisabishii' (口寂しい) that literally means 'lonely mouth' - the feeling of eating when you're not hungry, just because your mouth wants something to do.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -170,7 +170,7 @@
   {
     "id": 29,
     "fact": "Japan's 7-Eleven stores outnumber those in the US despite Japan being 26 times smaller - there's roughly one 7-Eleven for every 2,300 people.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -224,7 +224,7 @@
   {
     "id": 38,
     "fact": "The word 'gaman' (我慢) means enduring the seemingly unbearable with patience and dignity - a core Japanese cultural value.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -446,7 +446,7 @@
   {
     "id": 75,
     "fact": "The word 'enryo' (遠慮) describes polite restraint - like declining seconds even when hungry, to not be a burden.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -518,7 +518,7 @@
   {
     "id": 87,
     "fact": "There's a Japanese word 'dokkiri' (ドッキリ) for the heart-pounding shock of surprise - now the name of prank TV shows.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -584,7 +584,7 @@
   {
     "id": 98,
     "fact": "Japan has a festival where parents throw their babies to sumo wrestlers, who bounce them for good luck and health.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -614,7 +614,7 @@
   {
     "id": 103,
     "fact": "There's a Japanese word 'kenkyo' (謙虚) for humility so deep it rejects praise - considered one of the highest virtues.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -986,7 +986,7 @@
   {
     "id": 165,
     "fact": "The word 'ganban' (願番) describes taking turns at a task - cooperation without needing explicit coordination.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1064,7 +1064,7 @@
   {
     "id": 178,
     "fact": "Japan has vending machines that dispense hot canned coffee - a major morning ritual for millions of workers.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1184,7 +1184,7 @@
   {
     "id": 198,
     "fact": "Japan has a tradition where couples who break up must return or destroy any gifts received - nothing of the ex remains.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1286,7 +1286,7 @@
   {
     "id": 215,
     "fact": "Japan’s rail system is so punctual that many train companies issue delay certificates ('chien shoumeisho') for commuters.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1490,7 +1490,7 @@
   {
     "id": 249,
     "fact": "Japan’s traditional nighttime street games are called 'yomise' — pop-up stalls offering goldfish scooping, darts, and sweets.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
